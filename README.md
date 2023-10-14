@@ -25,7 +25,7 @@ To run the applicationon Dev Mode, run the following command:
 npm run dev
 ```
 
-The application runs on port 3000. To view the application, open the browser and type the following URL:
+The application runs on port 3001. To view the application, open the browser and type the following URL:
 
 ```bash
 http://localhost:3001/
